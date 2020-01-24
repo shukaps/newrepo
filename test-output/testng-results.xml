@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Shopping Home PAge" duration-ms="107978" started-at="2020-01-23T07:24:21Z" finished-at="2020-01-23T07:26:09Z">
+    <groups>
+    </groups>
+    <test name="HomePage Test Case" duration-ms="107978" started-at="2020-01-23T07:24:21Z" finished-at="2020-01-23T07:26:09Z">
+      <class name="com.shopping.qa.testcases.HomePageTestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="setUp" is-config="true" duration-ms="52891" started-at="2020-01-23T12:54:21Z" finished-at="2020-01-23T12:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTitle()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="HomePageTitle" duration-ms="534" started-at="2020-01-23T12:55:14Z" finished-at="2020-01-23T12:55:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="tearDown" is-config="true" duration-ms="2212" started-at="2020-01-23T12:55:14Z" finished-at="2020-01-23T12:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="setUp" is-config="true" duration-ms="20696" started-at="2020-01-23T12:55:16Z" finished-at="2020-01-23T12:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageLogo()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="HomePageLogo" duration-ms="513" started-at="2020-01-23T12:55:37Z" finished-at="2020-01-23T12:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="tearDown" is-config="true" duration-ms="1446" started-at="2020-01-23T12:55:38Z" finished-at="2020-01-23T12:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="setUp" is-config="true" duration-ms="21442" started-at="2020-01-23T12:55:39Z" finished-at="2020-01-23T12:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Loginbtn()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="Loginbtn" duration-ms="6118" started-at="2020-01-23T12:56:00Z" finished-at="2020-01-23T12:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginbtn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shopping.qa.testcases.HomePageTestcase@34ce8af7]" name="tearDown" is-config="true" duration-ms="2111" started-at="2020-01-23T12:56:07Z" finished-at="2020-01-23T12:56:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shopping.qa.testcases.HomePageTestcase -->
+    </test> <!-- HomePage Test Case -->
+  </suite> <!-- Shopping Home PAge -->
+</testng-results>

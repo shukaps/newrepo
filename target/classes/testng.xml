@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shopping Home PAge">
+
+	<listeners>
+		<listener class-name="com.report.listener.extentReport.ExtentReporttestNG" />
+	</listeners>
+
+
+	<test name="HomePage Test Case">
+		<classes>
+			<class name="com.shopping.qa.testcases.HomePageTestcase"></class>
+			
+
+		</classes>
+	</test>
+</suite>

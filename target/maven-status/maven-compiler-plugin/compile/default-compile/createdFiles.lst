@@ -1,0 +1,9 @@
+com\shopping\qa\util\ReadExcel.class
+com\shopping\qa\pages\RegisterationPage.class
+com\report\listener\extentReport\ExtentReporttestNG.class
+com\shopping\qa\util\demoexcel.class
+com\shopping\qa\base\TestBaseParent.class
+com\shopping\qa\util\TestUtilClass.class
+com\shopping\qa\pages\LoginPage.class
+com\shopping\qa\pages\HomePage.class
+com\shopping\qa\pages\AccountPage.class
