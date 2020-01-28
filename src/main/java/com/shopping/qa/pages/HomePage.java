@@ -31,9 +31,11 @@ public class HomePage extends TestBaseParent {
 		return logo.isDisplayed();
 	}
 	
+	//jhdscbjskd
 	public LoginPage loginBtn() {
 		signinbtn.click();
 		return new LoginPage();
+	
 	}
 	
 	
